@@ -1,1 +1,1 @@
-{"type": "code", "time": "2025-04-29T05:27:37+08:00", "code": "987687", "message": "我也不知道这算什么回事，反正这是验证码987687", "title": "Apple account 登陆验证码", "contact_turn": "on", "contact _way_1": "📧email", "contact_address_2": "one@meitian.me", "period": 900}
+{"type": "code", "time": "2025-04-29T05:29:11+08:00", "code": "123457", "message": "123457", "title": "Apple account 登陆验证码", "contact_turn": "on", "contact _way_1": "📧email", "contact_address_2": "one@meitian.me", "period": 900}
