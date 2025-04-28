@@ -1,1 +1,1 @@
-{"type": "code", "time": "2025-04-29T06:14:27+08:00", "code": "145441", "message": "【Apple】Apple 账户代码为：145441。请勿与他人共享。@apple.com #145441", "title": "Apple account 登陆验证码", "contact_turn": "on", "contact_way_1": "📧email", "contact_address_1": "one@meitian.me", "period": 900}
+{"type": "code", "time": "2025-04-29T06:53:28+08:00", "code": "123098", "message": "123098", "title": "Apple account 登陆验证码", "contact_turn": "on", "contact_way_1": "📧email", "contact_address_1": "one@meitian.me", "period": 900}
