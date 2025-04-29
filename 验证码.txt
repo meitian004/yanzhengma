@@ -1,8 +1,8 @@
 {
   "type": "text",
-  "time": "2025-04-29T12:59:54+08:00",
+  "time": "2025-04-29T13:00:46+08:00",
   "code": "",
-  "message": "哈哈哈哈哈看来还不支持特殊的文本内容哦",
+  "message": "奇怪了",
   "title": "🪧  公 告",
   "contact_turn": "on",
   "contact_way_1": "📧email",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "10s",
+  "valid_period": "1d",
   "refresh_period": "3s",
   "past_message": "验证码过期或尚未发送，请重新获取\n如需帮助请点击底部email发送邮件"
 }
