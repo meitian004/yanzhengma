@@ -1,6 +1,6 @@
 {
   "type": "code",
-  "time": "2025-04-29T10:45:30+08:00",
+  "time": "2025-04-29T10:49:38+08:00",
   "code": "074018",
   "message": "请核对时效性，确保这是您所发送的验证码后，复制和使用该验证码。",
   "title": "验证码转发测试",
@@ -15,6 +15,6 @@
   "contact_address_3": "",
   "contact_url_3": "",
   "valid_period": "1m",
-  "refresh_period": "15s",
+  "refresh_period": "5s",
   "past_message": "验证码过期或尚未发送，请重新获取\n如需帮助请点击底部email发送邮件"
 }
