@@ -1,9 +1,9 @@
 {
-  "type": "code",
-  "time": "2025-04-29T08:50:51+08:00",
-  "code": "074018",
-  "message": "【Apple】Apple 账户代码为：074018。请勿与他人共享。@apple.com #074018",
-  "title": "Apple Account 登陆验证",
+  "type": "text",
+  "time": "2025-04-29T09:32:10+08:00",
+  "code": "",
+  "message": "暂停收发",
+  "title": "🪧  公 告",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
@@ -14,6 +14,6 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "3m",
-  "refresh_period": "1m"
+  "valid_period": "1m",
+  "refresh_period": "15s"
 }
