@@ -1,1 +1,19 @@
-{"type": "code", "time": "2025-04-29T08:31:09+08:00", "code": "112775", "message": "【Apple】Apple 账户代码为：112775。请勿与他人共享。@apple.com #112775", "title": "Apple Account 登陆验证", "contact_turn": "on", "contact_way_1": "📧email", "contact_address_1": "one@meitian.me", "contact_url_1": "mailto:one@meitian.me", "period": 60}
+{
+  "type": "code",
+  "time": "2025-04-29T08:50:51+08:00",
+  "code": "074018",
+  "message": "【Apple】Apple 账户代码为：074018。请勿与他人共享。@apple.com #074018",
+  "title": "Apple Account 登陆验证",
+  "contact_turn": "on",
+  "contact_way_1": "📧email",
+  "contact_address_1": "one@meitian.me",
+  "contact_url_1": "mailto:one@meitian.me",
+  "contact_way_2": "",
+  "contact_address_2": "",
+  "contact_url_2": "",
+  "contact_way_3": "",
+  "contact_address_3": "",
+  "contact_url_3": "",
+  "valid_period": "3m",
+  "refresh_period": "1m"
+}
