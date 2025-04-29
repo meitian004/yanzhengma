@@ -1,9 +1,9 @@
 {
-  "type": "code",
-  "time": "2025-04-29T09:56:46+08:00",
-  "code": "074018",
-  "message": "请核对时效性，确保这是您所发送的验证码后，复制和使用该验证码。",
-  "title": "验证码转发测试",
+  "type": "text",
+  "time": "2025-04-29T10:41:07+08:00",
+  "code": "",
+  "message": "公告，今日歇息",
+  "title": "🪧  公 告",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
@@ -14,6 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "60s",
-  "refresh_period": "15s"
+  "valid_period": "1m",
+  "refresh_period": "15s",
+  "past_message": "验证码已过期或尚未发送，请重新获取。\n如需帮助请点击底部email发送邮件"
 }
