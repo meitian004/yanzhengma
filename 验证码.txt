@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2025-05-01T02:29:11+08:00",
+  "time": "2025-05-01T02:32:53+08:00",
   "code": "",
-  "message": "<h1 style=\"margin:0;font-size:24px;color:#333;\">抖音掀起知识学习热潮 &#127775;</h1><p style=\"margin:5px 0;font-size:16px;\">从<span style=\"font-style:italic;\">24小时看完30个人生底层大问题</span>等超长视频出圈，到<b>北大 抖音走读生</b>在线上课，抖音迎来了知识类视频的爆发期。</p><p style=\"margin:5px 0;font-size:16px;\"><span style=\"font-style:italic;\">正257边形作图难题</span>变成创作者挑战赛，点燃全民学习热情 &#128216;。</p><p style=\"margin:5px 0;font-size:16px;\">数据显示，<span style=\"color:#e74c3c;font-size:16px;\">2024年</span>万粉以上知识类创作者达<b>32万</b>，创作超<span style=\"color:#e74c3c;font-size:16px;\">5.7亿条</span>内容。</p><p style=\"margin:5px 0;font-size:16px;\">在<span style=\"color:#e74c3c;font-size:16px;\">4月24日</span><u>2025抖音知识创作砥砺计划</u>发布会上，负责人表示：<span style=\"font-style:italic;\">知识创作者希望唤醒求知热情。</span></p><p style=\"margin:5px 0;font-size:16px;\">短视频平台进化，不止解压，还要<b>解惑</b>。</p>",
-  "title": "🪧  公 告",
+  "message": "<h1 style="margin:0;font-size:24px;color:#333;">落马官员背后的政治骗子 ⚠️</h1><p style="margin:5px 0;font-size:16px;"><b><span style="color:#e74c3c;">官员结交政治骗子</span></b>的本质是<b><span style="color:#e74c3c;">政治投机</span></b>，根源在于扭曲的<b><span style="color:#e74c3c;">权力观</span></b>与失守的<b><span style="color:#e74c3c;">政治理性</span></b>。</p><p style="margin:5px 0;font-size:16px;"><span style="color:#e74c3c;">4月23日</span>，<b>中央纪委国家监委</b>发布消息，<b><span style="color:#e74c3c;">十三届</span>全国政协经济委员会副主任</b> <b>张效廉</b> 严重违纪违法被开除党籍。通报称，<b>张效廉</b> 严重违反党的政治纪律、组织纪律、廉洁纪律和生活纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的<b><span style="color:#e74c3c;">十八大</span></b>后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。👤</p><p style="margin:5px 0;font-size:16px;">通报还指出，<b>张效廉</b> 丧失理想信念，背弃初心使命，官迷心窍、利令智昏，结交<span style="font-style:italic;">政治骗子</span>，对抗组织审查。无独有偶，<b>重庆市委原常委、政法委原书记 陆克华</b>，<b>中央纪委国家监委驻中央组织部纪检监察组原组长 李刚</b>，同月亦因同样问题被通报。</p><p style="margin:5px 0;font-size:16px;">近年来，多名省部级高官在通报中被点名<span style="font-style:italic;">结交政治骗子</span>，引发社会广泛关注。多位专家告诉《中国新闻周刊》，官员结交<b><span style="color:#e74c3c;">政治骗子</span></b>的本质是<b><span style="color:#e74c3c;">政治投机</span></b>，根源在于扭曲的<b><span style="color:#e74c3c;">权力观</span></b>与失守的<b><span style="color:#e74c3c;">政治理性</span></b>。政治骗子正是精准捕捉到这类心理，通过营造神秘身份、夸大关系资源，伪装成<span style="font-style:italic;">能人</span>，以更隐蔽灵活的方式渗透官员圈层，形成灰色利益勾连。</p>",
+  "title": "落马官员背后的政治骗子",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
