@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2025-04-30T22:15:45+08:00",
+  "time": "2025-04-30T22:20:22+08:00",
   "code": "",
-  "message": "我看卡额\n你好\n\n还是一样\n\"有用吗\"\n\n我看卡额\n你好\n\n还是一样\n\"有用吗\"\n\n我看卡额\n你好\n\n还是一样\n\"有用吗\"\n\n我看卡额\n你好\n\n还是一样\n\"有用吗\"",
-  "title": "🪧  公 告",
+  "message": "单词：Serenity (noun) 定义：The state of being calm, peaceful, and untroubled. 例句：After a long day, she found serenity sitting by the quiet lake, watching the sunset. 中文翻译：平静，宁静，安详 同义词：Tranquility, peace, calmness 反义词：Turmoil, chaos, agitation 小诗： In the hush of dawn’s soft light, Serenity whispers, calm and bright. By the stream where willows sway, Peace unfolds to greet the day.",
+  "title": "🎓 📖  每 日 一 词 📚 🔍",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
