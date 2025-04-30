@@ -1,31 +1,9 @@
 {
   "type": "text",
-  "time": "2025-05-01T02:01:30+08:00",
+  "time": "2025-05-01T02:04:59+08:00",
   "code": "",
-  "message": "<p style="margin:0;font-size:18px;font-weight:bold;color:#333;">Campus Protests about Israel and the Palestinians 🌟</p>
-<p style="margin:3px 0;font-size:15px;color:#555;">• 校园抗议：以色列与巴勒斯坦问题</p>
-<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 反映以巴冲突外溢至高校的对抗</p>
-
-<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">University of California Faculty Statement on Protests ✨</p>
-<p style="margin:3px 0;font-size:15px;color:#555;">• 加州大学教师关于抗议活动的联合声明</p>
-<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 体现学术共同体对制度暴力的抵抗</p>
-
-<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">APA-led Class Action Lawsuit Prevails ✅</p>
-<p style="margin:3px 0;font-size:15px;color:#555;">• APA领衔集体诉讼胜诉</p>
-<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 指向法律手段对抗系统性压迫的胜利</p>
-
-<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">Columbia Philosophy Grad Students Condemn Campus Arrests ✊</p>
-<p style="margin:3px 0;font-size:15px;color:#555;">• 哥伦比亚哲学系研究生谴责校园逮捕行动</p>
-<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 凸显学生群体旁观者到行动者的转变</p>
-
-<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">Texas University Students Demand Divestment from Israel 💰</p>
-<p style="margin:3px 0;font-size:15px;color:#555;">• 德州大学学生要求与以色列经济脱钩</p>
-<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 展现经济制裁作为政治抗议工具的校园实践</p>
-
-<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">Faculty at 20+ Colleges Pledge Civil Disobedience 🔥</p>
-<p style="margin:3px 0;font-size:15px;color:#555;">• 20余所高校教师承诺非暴力不合作</p>
-<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 预示知识分子集体行动升级</p>",
-  "title": "Campus Protest Insights",
+  "message": "<h2 style="margin:0;font-size:22px;color:#333;">酒店机器人 🤖</h2><p style="margin:5px 0; font-size:15px;">这个国内差旅人已经十分熟悉、不少外国人体验后惊呼<span style="font-style:italic; color:#2ecc71;">黑科技</span>的国内酒店新标配，快要送出一家上市公司了。</p><p style="margin:5px 0; font-size:15px;">这就是此前已正式向<span style="font-weight:bold;">港交所递交招股书</span>的<span style="font-weight:bold; color:#3498db;">北京云迹科技股份有限公司</span>（以下简称“云迹科技”）。</p><p style="margin:5px 0; font-size:15px;">若成功上市，其将成为<span style="font-style:italic; color:#2ecc71;">“机器人服务智能体第一股”</span>。📈</p><p style="margin:5px 0; font-size:15px;">很多人或许觉得云迹科技这个名字陌生，但在万豪、洲际、华住、亚朵、锦江等集团旗下的酒店，你可能已经跟它的机器人相遇不止一回了。</p><p style="margin:5px 0; font-size:15px;">根据招股书，截至去年底，云迹科技的机器人已被聘入国内<span style="font-weight:bold; color:#e74c3c;">超3万家酒店</span>。</p><p style="margin:5px 0; font-size:15px;">以<span style="font-weight:bold;">2023年收入计</span>，云迹科技在全球和中国酒店场景的市占率分别为<span style="font-weight:bold; color:#e74c3c;">9%</span>、<span style="font-weight:bold; color:#e74c3c;">12.2%</span>，均<span style="font-style:italic; color:#2ecc71;">排名第一</span>。🏆</p><p style="margin:5px 0; font-size:15px;">但这个龙头过得也并非全然风光。过去三年，云迹科技在营收<span style="font-weight:bold; color:#e74c3c;">5亿多元</span>的情况下，净亏损累计<span style="font-weight:bold; color:#e74c3c;">超8亿元</span>。</p><p style="margin:5px 0; font-size:15px;"><span style="font-style:italic;">亏损背后，藏着的是云迹科技，乃至整个商用服务机器人行业面临的<span style="color:#e74c3c; text-decoration:underline;">挑战</span>。⚠️</span></p>",
+  "title": "酒店机器人",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
