@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2025-05-01T02:38:22+08:00",
+  "time": "2025-05-01T02:43:53+08:00",
   "code": "",
-  "message": "<h1 style="margin:0;font-size:24px;color:#333;">酒店里给你送外卖的机器人，三年亏了8个亿 🤖</h1><p style="margin:0;font-size:16px;">原创 石晗旭 / 中国新闻周刊 <span style="color:#e74c3c;">2025年04月28日 18:31</span> 北京</p><p style="margin:5px 0;font-size:16px;"><b>商业化难题仍待破局</b></p><p style="margin:5px 0;font-size:16px;">酒店机器人，这个国内差旅人已经十分熟悉、不少外国人体验后惊呼黑科技的国内酒店新标配，快要送出一家上市公司了。</p><p style="margin:5px 0;font-size:16px;">这就是此前已正式向<span style="color:#e74c3c;">港交所</span>递交招股书的<span style="font-style:italic;">北京云迹科技股份有限公司</span>（以下简称<span style="font-style:italic;">云迹科技</span>）。</p><p style="margin:5px 0;font-size:16px;">若成功上市，其将成为<span style="font-style:italic;">机器人服务智能体第一股</span>。</p><p style="margin:5px 0;font-size:16px;">很多人或许觉得<span style="font-style:italic;">云迹科技</span>这个名字陌生，但在<span style="font-style:italic;">万豪</span>、<span style="font-style:italic;">洲际</span>、<span style="font-style:italic;">华住</span>、<span style="font-style:italic;">亚朵</span>、<span style="font-style:italic;">锦江</span>等集团旗下的酒店，你可能已经跟它的机器人相遇不止一回了。</p><p style="margin:5px 0;font-size:16px;">根据招股书，截至去年底，<span style="font-style:italic;">云迹科技</span>的机器人已被聘入国内<span style="color:#e74c3c;">超3万家酒店</span>，以<span style="color:#e74c3c;">2023年</span>收入计，<span style="font-style:italic;">云迹科技</span>在全球和中国酒店场景的市占率分别为<span style="color:#e74c3c;">9%</span>、<span style="color:#e74c3c;">12.2%</span>，均排名<span style="font-style:italic;">第一</span>。📊</p><p style="margin:5px 0;font-size:16px;">但这个<span style="font-style:italic;">龙头</span>过得也并非全然风光。过去<span style="color:#e74c3c;">三年</span>，<span style="font-style:italic;">云迹科技</span>在营收<span style="color:#e74c3c;">5亿多元</span>的情况下，净亏损累计<span style="color:#e74c3c;">超8亿元</span>。📉</p><p style="margin:5px 0;font-size:16px;">亏损背后，藏着的是<span style="font-style:italic;">云迹科技</span>，乃至整个商用服务机器人行业面临的挑战。</p>",
-  "title": "酒店里给你送外卖的机器人，三年亏了8个亿",
+  "message": "",
+  "title": "",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
