@@ -1,9 +1,31 @@
 {
   "type": "text",
-  "time": "2025-05-01T01:55:12+08:00",
+  "time": "2025-05-01T02:01:30+08:00",
   "code": "",
-  "message": "",
-  "title": "",
+  "message": "<p style="margin:0;font-size:18px;font-weight:bold;color:#333;">Campus Protests about Israel and the Palestinians 🌟</p>
+<p style="margin:3px 0;font-size:15px;color:#555;">• 校园抗议：以色列与巴勒斯坦问题</p>
+<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 反映以巴冲突外溢至高校的对抗</p>
+
+<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">University of California Faculty Statement on Protests ✨</p>
+<p style="margin:3px 0;font-size:15px;color:#555;">• 加州大学教师关于抗议活动的联合声明</p>
+<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 体现学术共同体对制度暴力的抵抗</p>
+
+<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">APA-led Class Action Lawsuit Prevails ✅</p>
+<p style="margin:3px 0;font-size:15px;color:#555;">• APA领衔集体诉讼胜诉</p>
+<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 指向法律手段对抗系统性压迫的胜利</p>
+
+<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">Columbia Philosophy Grad Students Condemn Campus Arrests ✊</p>
+<p style="margin:3px 0;font-size:15px;color:#555;">• 哥伦比亚哲学系研究生谴责校园逮捕行动</p>
+<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 凸显学生群体旁观者到行动者的转变</p>
+
+<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">Texas University Students Demand Divestment from Israel 💰</p>
+<p style="margin:3px 0;font-size:15px;color:#555;">• 德州大学学生要求与以色列经济脱钩</p>
+<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 展现经济制裁作为政治抗议工具的校园实践</p>
+
+<p style="margin:10px 0 0 0;font-size:18px;font-weight:bold;color:#333;">Faculty at 20+ Colleges Pledge Civil Disobedience 🔥</p>
+<p style="margin:3px 0;font-size:15px;color:#555;">• 20余所高校教师承诺非暴力不合作</p>
+<p style="margin:3px 0;font-size:14px;font-style:italic;color:#777;">📝 预示知识分子集体行动升级</p>",
+  "title": "Campus Protest Insights",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
