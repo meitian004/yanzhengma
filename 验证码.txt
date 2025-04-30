@@ -1,9 +1,19 @@
 {
   "type": "text",
-  "time": "2025-05-01T02:07:06+08:00",
+  "time": "2025-05-01T02:11:59+08:00",
   "code": "",
-  "message": "<h2 style="margin:0;font-size:22px;color:#333;">电商平台聚焦减重市场 🏋️‍♂️</h2><p style="margin:5px 0;font-size:15px;">最近，<b>京东</b>和<b>美团</b>都盯上了用户的减肥需求。</p><p style="margin:5px 0;font-size:15px;"><b>京东买药</b>发起春季减重计划，将《西虹市首富》的“<u style="color:#2ecc71;">脂肪险</u>”搬入现实，在北京给减重<span style="color:#e74c3c; font-weight:bold;">5斤</span>以上用户直接发钱，最高<span style="color:#e74c3c; font-weight:bold;">1000元</span>。</p><p style="margin:5px 0;font-size:15px;"><b>美团卖药</b>上线“<u style="color:#2ecc71;">不瘦必赔</u>”专区，购买司美格鲁肽等产品后一斤不掉最高赔偿<span style="color:#e74c3c; font-weight:bold;">600元</span> 💊。</p><p style="margin:5px 0;font-size:15px;">双方活动旨在抢占<b>线上买药</b>用户心智，该市场增速远超整体，是重要的业务增长点。</p><p style="margin:5px 0;font-size:15px;font-style:italic;">这也被视为与外卖、数码家电等一同，成为<b>即时零售</b>竞争的关键领域之一。</p><p style="margin:5px 0;font-size:15px;">这一切指向一个即将浮现的新的<u style="color:#e74c3c; font-weight:bold;">万亿市场</u> 💰。</p>",
-  "title": "电商减重竞争",
+  "message": "<h1 style="margin:0;font-size:24px;color:#333;">线上药房竞争 🏃‍♀️</h1>
+<p style="margin:5px 0;font-size:16px;">最近，<b>京东</b>和<b>美团</b>都盯上了用户的减肥需求。</p>
+<p style="margin:5px 0;font-size:16px;">一边是<b>京东买药</b>秒送把《西虹市首富》王多鱼的“脂肪险”搬进了现实，在北京发起春季减重计划，给减重<span style="color:#e74c3c;font-size:16px;">5斤</span>以上的用户直接发钱，最高<span style="color:#e74c3c;font-size:16px;">1000元</span>。</p>
+<p style="margin:5px 0;font-size:16px;">另一边是<b>美团卖药</b>上线“不瘦必赔”专区，对购买<span style="font-style:italic;">司美格鲁肽</span>等产品且正确使用后<span style="color:#e74c3c;font-size:16px;">一斤不掉</span>的用户，最高赔偿<span style="color:#e74c3c;font-size:16px;">600元</span>。</p>
+<p style="margin:5px 0;font-size:16px;">双方不约而同地发起减重相关活动，指向的是<span style="text-decoration:underline;">抢占线上买药的用户心智</span>。</p>
+<p style="margin:5px 0;font-size:16px;">从数据上看，<b>线上医药零售市场</b>的增速远远快过整体增速。📈</p>
+<p style="margin:5px 0;font-size:16px;">因此，对京东和美团而言，这都意味着业务上的增长点。</p>
+<p style="margin:5px 0;font-size:16px;">而更进一步的，这或许将与<span style="font-style:italic;">外卖</span>、<span style="font-style:italic;">数码家电</span>等一道，成为京东和美团<span style="text-decoration:underline;">即时零售竞争</span>的重要领域之一。</p>
+<p style="margin:5px 0;font-size:16px;">今年以来，京东与美团围绕<b>外卖</b>业务，已爆发多轮斗争及口水仗。</p>
+<p style="margin:5px 0;font-size:16px;">而在此之前，美团在<b>家电数码</b>业务上的布局，也与京东的核心业务形成直接竞争。</p>
+<p style="margin:5px 0;font-size:16px;">这一切的背后，是一个新的<span style="color:#e74c3c;font-size:16px;font-weight:bold;">万亿市场</span>即将浮出水面。💰</p>",
+  "title": "线上药房竞争",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
