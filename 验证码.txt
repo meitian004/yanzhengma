@@ -1,6 +1,6 @@
 {
   "type": "code",
-  "time": "2025-04-30T20:48:35+08:00",
+  "time": "2025-04-30T20:49:14+08:00",
   "code": "074018",
   "message": "请核对时效性，确保这是您所发送的验证码后，复制和使用该验证码。",
   "title": "Apple account 登陆验证",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "45s",
-  "refresh_period": "15s",
+  "valid_period": "15s",
+  "refresh_period": "3s",
   "past_message": "验证码过期或尚未发送，请重新获取。\n为避免频繁请求，请等待页面自动刷新。"
 }
