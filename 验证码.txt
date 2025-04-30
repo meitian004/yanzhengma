@@ -1,8 +1,8 @@
 {
   "type": "text",
-  "time": "2025-04-30T22:58:19+08:00",
+  "time": "2025-05-01T01:36:05+08:00",
   "code": "",
-  "message": "<h1 style=\"margin:0;font-size:24px;color:#333;\">支付信息</h1>\n<p style=\"margin:5px 0;\"><b>卡号:</b> 1234-5678-9012-3456</p>\n<p style=\"margin:5px 0;\"><b>持卡人:</b> 李四</p>\n<p style=\"margin:5px 0;\"><b>有效期:</b> 06/27</p>\n<p style=\"margin:5px 0;\"><b>CVV:</b> <span style=\"font-size:16px;color:#e74c3c;font-style:italic;\">789</span></p>\n<p style=\"margin:5px 0;\">请输入 <u style=\"font-weight:bold;\">CVV</u> 码验证。</p>\n<p style=\"margin:5px 0;font-style:italic;\">注意: CVV 在卡背面。</p>",
+  "message": "```html\n<h2 style=\"margin:0;font-size:22px;color:#333;\">特赞科技：内容+人工智能独角兽</h2>\n<p style=\"margin:5px 0;\">2022年，模速空间“跑”出一个全球领先的“内容+人工智能”独角兽企业——<b style=\"font-size:16px;\">特赞科技</b>，在范凌教授的带领下，致力于构建企业级的创意内容数字新基建，围绕企业内容资产的生命周期，打造了连接企业内外内容管理、积累、生产、分析的数字化平台，提升品牌内容资产的生产与流转效率，助力品牌以内容驱动增长，赋能品牌数字化转型。目前，特赞科技已完成D1轮融资，成为估值超过<span style=\"color:#e74c3c;\">10亿美金</span>的独角兽企业。</p>\n<p style=\"margin:5px 0;\">“我一直想做的事情就是把科技带到创意领域里，就像特赞的英文名叫<b style=\"font-size:16px;\">Tezign</b>，即Tech+Design，是技术和设计的结合。正是这样的创业初心，希望在人工智能时代，让更多的设计师、创意人或者更广义的创作者，与人工智能技术共生、共荣、共创，助力上海成为人工智能技术与应用领域的全球标杆。”范凌说。</p>\n```",
   "title": "🪧  公 告",
   "contact_turn": "on",
   "contact_way_1": "📧email",
