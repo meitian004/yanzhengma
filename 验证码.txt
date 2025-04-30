@@ -1,6 +1,6 @@
 {
   "type": "text",
-  "time": "2025-05-01T02:46:08+08:00",
+  "time": "2025-05-01T02:48:02+08:00",
   "code": "",
   "message": "<h1 style="margin:0;font-size:24px;color:#333;">酒店机器人亏8亿 💡</h1><p style="margin:5px 0;font-size:16px;"><b>商业化难题</b>未解，<span style="font-style:italic;">酒店机器人</span>成国内酒店标配，外国人叹<span style="font-style:italic;">黑科技</span>。</p><p style="margin:5px 0;font-size:16px;"><span style="color:#e74c3c;font-size:16px;">云迹科技</span>已向<b>港交所</b>递交招股书。</p><p style="margin:5px 0;font-size:16px;">若上市，将成<u style="font-weight:bold;">机器人服务智能体第一股</u> 📈。</p><p style="margin:5px 0;font-size:16px;">在<b>万豪</b>、<b>洲际</b>、<b>华住</b>等酒店，<span style="color:#e74c3c;font-size:16px;">云迹科技</span>机器人随处可见。</p><p style="margin:5px 0;font-size:16px;">截至<span style="color:#e74c3c;font-size:16px;">2023年</span>，覆盖国内<b>超3万家酒店</b>，市占率全球<span style="color:#e74c3c;font-size:16px;">9%</span>、中国<span style="color:#e74c3c;font-size:16px;">12.2%</span>。</p><p style="margin:5px 0;font-size:16px;">但过去<span style="color:#e74c3c;font-size:16px;">三年</span>，营收<b>5亿多元</b>，亏损<span style="color:#e74c3c;font-size:16px;">超8亿元</span>，行业挑战待解。</p>",
   "title": "酒店里给你送外卖的机器人，三年亏了8个亿",
