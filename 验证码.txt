@@ -1,8 +1,8 @@
 {
   "type": "text",
-  "time": "2025-05-01T02:25:31+08:00",
+  "time": "2025-05-01T02:29:11+08:00",
   "code": "",
-  "message": "奇了怪了",
+  "message": "<h1 style=\"margin:0;font-size:24px;color:#333;\">抖音掀起知识学习热潮 &#127775;</h1><p style=\"margin:5px 0;font-size:16px;\">从<span style=\"font-style:italic;\">24小时看完30个人生底层大问题</span>等超长视频出圈，到<b>北大 抖音走读生</b>在线上课，抖音迎来了知识类视频的爆发期。</p><p style=\"margin:5px 0;font-size:16px;\"><span style=\"font-style:italic;\">正257边形作图难题</span>变成创作者挑战赛，点燃全民学习热情 &#128216;。</p><p style=\"margin:5px 0;font-size:16px;\">数据显示，<span style=\"color:#e74c3c;font-size:16px;\">2024年</span>万粉以上知识类创作者达<b>32万</b>，创作超<span style=\"color:#e74c3c;font-size:16px;\">5.7亿条</span>内容。</p><p style=\"margin:5px 0;font-size:16px;\">在<span style=\"color:#e74c3c;font-size:16px;\">4月24日</span><u>2025抖音知识创作砥砺计划</u>发布会上，负责人表示：<span style=\"font-style:italic;\">知识创作者希望唤醒求知热情。</span></p><p style=\"margin:5px 0;font-size:16px;\">短视频平台进化，不止解压，还要<b>解惑</b>。</p>",
   "title": "🪧  公 告",
   "contact_turn": "on",
   "contact_way_1": "📧email",
