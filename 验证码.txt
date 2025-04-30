@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2025-05-01T02:52:33+08:00",
+  "time": "2025-05-01T07:36:20+08:00",
   "code": "",
-  "message": "<h1 style="margin:0;font-size:24px;color:#333;">酒店机器人亏8亿</h1><p style="margin:5px 0;font-size:16px;"><b>现状:</b> <span style="font-style:italic;">酒店机器人</span>成国内标配。</p><p style="margin:5px 0;font-size:16px;"><b>公司:</b> <span style="font-size:16px;color:#e74c3c;font-style:italic;">云迹科技</span>递交港交所招股书。</p><p style="margin:5px 0;font-size:16px;"><b>前景:</b> 或成<u style="font-weight:bold;">机器人服务第一股</u>。</p><p style="margin:5px 0;font-size:16px;"><b>应用:</b> 常见于<b>万豪</b>、<b>洲际</b>、<b>华住</b>等酒店。</p><p style="margin:5px 0;font-size:16px;"><b>规模:</b> 截至2023年，覆盖<b>超3万家酒店</b>。</p><p style="margin:5px 0;font-size:16px;"><b>业绩:</b> <span style="font-size:16px;color:#e74c3c;font-style:italic;">三年</span>营收5亿多元，亏损8亿元。</p><p style="margin:5px 0;font-size:16px;font-style:italic;"><b>挑战:</b> 行业商业化难题待解。</p>",
-  "title": "酒店里给你送外卖的机器人，三年亏了8个亿",
+  "message": ".",
+  "title": "🪧  公 告",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
