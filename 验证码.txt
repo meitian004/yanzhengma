@@ -1,19 +1,9 @@
 {
   "type": "text",
-  "time": "2025-05-01T02:11:59+08:00",
+  "time": "2025-05-01T02:14:22+08:00",
   "code": "",
-  "message": "<h1 style="margin:0;font-size:24px;color:#333;">线上药房竞争 🏃‍♀️</h1>
-<p style="margin:5px 0;font-size:16px;">最近，<b>京东</b>和<b>美团</b>都盯上了用户的减肥需求。</p>
-<p style="margin:5px 0;font-size:16px;">一边是<b>京东买药</b>秒送把《西虹市首富》王多鱼的“脂肪险”搬进了现实，在北京发起春季减重计划，给减重<span style="color:#e74c3c;font-size:16px;">5斤</span>以上的用户直接发钱，最高<span style="color:#e74c3c;font-size:16px;">1000元</span>。</p>
-<p style="margin:5px 0;font-size:16px;">另一边是<b>美团卖药</b>上线“不瘦必赔”专区，对购买<span style="font-style:italic;">司美格鲁肽</span>等产品且正确使用后<span style="color:#e74c3c;font-size:16px;">一斤不掉</span>的用户，最高赔偿<span style="color:#e74c3c;font-size:16px;">600元</span>。</p>
-<p style="margin:5px 0;font-size:16px;">双方不约而同地发起减重相关活动，指向的是<span style="text-decoration:underline;">抢占线上买药的用户心智</span>。</p>
-<p style="margin:5px 0;font-size:16px;">从数据上看，<b>线上医药零售市场</b>的增速远远快过整体增速。📈</p>
-<p style="margin:5px 0;font-size:16px;">因此，对京东和美团而言，这都意味着业务上的增长点。</p>
-<p style="margin:5px 0;font-size:16px;">而更进一步的，这或许将与<span style="font-style:italic;">外卖</span>、<span style="font-style:italic;">数码家电</span>等一道，成为京东和美团<span style="text-decoration:underline;">即时零售竞争</span>的重要领域之一。</p>
-<p style="margin:5px 0;font-size:16px;">今年以来，京东与美团围绕<b>外卖</b>业务，已爆发多轮斗争及口水仗。</p>
-<p style="margin:5px 0;font-size:16px;">而在此之前，美团在<b>家电数码</b>业务上的布局，也与京东的核心业务形成直接竞争。</p>
-<p style="margin:5px 0;font-size:16px;">这一切的背后，是一个新的<span style="color:#e74c3c;font-size:16px;font-weight:bold;">万亿市场</span>即将浮出水面。💰</p>",
-  "title": "线上药房竞争",
+  "message": "<h1 style=\\"margin:0;font-size:24px;color:#333;\\">抖音掀起知识学习热潮 🌟</h1><p style=\\"margin:5px 0;font-size:16px;\\">从《<u>24小时看完30个人生底层大问题</u>》等超长视频出圈，到百万网友成为<b>北大“抖音走读生”</b>在线上课，抖音迎来了知识类视频的爆发期。</p><p style=\\"margin:5px 0;font-size:16px;\\">数学“<u>正257边形作图难题</u>”变成创作者挑战赛，点燃全民学习热情 📚。</p><p style=\\"margin:5px 0;font-size:16px;\\">数据显示，<span style=\\"color:#e74c3c;font-size:16px;\\">2024年</span>万粉以上知识类创作者达<b>32万</b>，创作超<span style=\\"color:#e74c3c;font-size:16px;\\">5.7亿条</span>内容。</p><p style=\\"margin:5px 0;font-size:16px;\\">在<span style=\\"color:#e74c3c;font-size:16px;\\">4月24日</span>“2025抖音知识创作砥砺计划”发布会上，负责人表示：<span style=\\"font-style:italic;\\">“知识创作者希望通过理解知识，帮助更多人，唤醒求知热情。”</span></p><p style=\\"margin:5px 0;font-size:16px;\\">短视频平台进化，不止解压，还要<b>解惑</b>。</p>",
+  "title": "🪧  公 告",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
