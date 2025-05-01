@@ -1,9 +1,9 @@
 {
-  "type": "text",
-  "time": "2025-05-01T10:23:30+08:00",
-  "code": "",
-  "message": "<style>:root { --text-color: #1a2a44; --highlight-color: #d32f2f; --highlight-bg: #fff8e1; --highlight-bg-text: #ffebee; --highlight-border: #ffd54f; --hover-bg: #fefcbf; --hover-color: #b71c1c; } @media (prefers-color-scheme: dark) { :root { --text-color: #e2e8f0; --highlight-color: #ff8a80; --highlight-bg: #4a4a4a; --highlight-bg-text: #6b6b6b; --highlight-border: #718096; --hover-bg: #718096; --hover-color: #feb2b2; } } .highlight:hover { background-color: var(--hover-bg); color: var(--hover-color); transform: scale(1.05); box-shadow: 0 2px 8px rgba(0,0,0,0.3); border-color: var(--hover-color); transition: all 0.3s ease; }</style><p style=\"font-size: 16px; margin:10px 0; color: var(--text-color); text-align: left; line-height: 1.5;\"><mark style=\"background-color:var(--highlight-bg);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">中国新闻网</mark><br><u style=\"font-weight:bold;color:var(--highlight-color);text-decoration:underline dotted;padding:0 2px;\">2025年05月01日</u> 10:04<br>北京<br>听全文 &#x1F4F0;</p><p style=\"font-size: 16px; margin:10px 0; color: var(--text-color); text-align: left; line-height: 1.5;\">4月30日，<mark style=\"background-color:var(--highlight-bg);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">全国台联办公室</mark><u>发布讣告</u>，中国共产党的优秀党员，忠诚的爱国主义者，<mark style=\"background-color:var(--highlight-bg);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">杨国庆同志</mark>，是中国共产党第十四次、十五次、十六次代表大会<strong>代表</strong>，政协第八届全国委员会<strong>委员</strong>，第九届、十届全国人民代表大会常务委员会<strong>委员</strong>... &#x1F4DA;</p><p style=\"font-size: 16px; margin:10px 0; color: var(--text-color); text-align: left; line-height: 1.5;\">...华侨委员会副主任<strong>委员</strong>，第六届、七届中国侨联兼职<strong>副主席</strong>，<mark style=\"background-color:var(--highlight-bg);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">中华全国台湾同胞联谊会</mark>第六届、第七届理事会<strong>会长</strong>、<strong>党组书记</strong>，因病医治无效，于<span style=\"font-size:18px;color:var(--highlight-color);font-style:italic;background:linear-gradient(45deg,var(--highlight-bg-text),var(--highlight-bg));padding:3px 5px;border-radius:4px;box-shadow:0 1px 3px rgba(0,0,0,0.2);\">2025年4月26日9时12分</span>在北京逝世<u>在京逝世</u>... &#x23F1;</p><p style=\"font-size: 16px; margin:10px 0; color: var(--text-color); text-align: left; line-height: 1.5; font-style: italic;\">...，享年<strong>89岁</strong>。 &#x1F56F;</p>",
-  "title": "杨国庆同志在京逝世",
+  "type": "code",
+  "time": "2025-05-01T12:40:10+08:00",
+  "code": "765992",
+  "message": "请核对时效性，确保这是您所发送的验证码后，复制和使用该验证码。",
+  "title": "Apple account 登陆验证",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "1d",
+  "valid_period": "45s",
   "refresh_period": "15s",
   "past_message": "验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"
 }
