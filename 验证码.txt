@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2025-05-01T09:05:55+08:00",
+  "time": "2025-05-01T09:09:10+08:00",
   "code": "",
-  "message": "<h1 style=\"margin:0;font-size:24px;color:#333;\">酒店机器人亏8亿</h1><p style=\"margin:5px 0;font-size:16px;\"><b>现状:</b> 酒店机器人成标配</p><p style=\"margin:5px 0;font-size:16px;\"><b>公司:</b> 云迹科技递交招股书</p><p style=\"margin:5px 0;font-size:16px;\"><b>前景:</b> <u style=\"font-weight:bold;\">机器人服务第一股</u></p><p style=\"margin:5px 0;font-size:16px;\"><b>应用:</b> 万豪洲际华住酒店</p><p style=\"margin:5px 0;font-size:16px;\"><b>规模:</b> 覆盖超3万家酒店</p><p style=\"margin:5px 0;font-size:16px;\"><b>业绩:</b> 营收5亿元亏<span style=\"font-size:16px;color:#e74c3c;font-style:italic;\">8亿元</span></p><p style=\"margin:5px 0;font-size:16px;font-style:italic;\"><b>挑战:</b> 行业商业化待解</p>",
-  "title": "酒店里给你送外卖的机器人，三年亏了8个亿",
+  "message": "<h1 style=\"margin:0;font-size:24px;color:#333;\">人大铁三队邀请 🌟</h1><p style=\"margin:0;font-size:16px;\">无论你是<span style=\"color:#e74c3c;\">跑步健将</span>、<span style=\"color:#e74c3c;\">骑行Pro</span>，还是<span style=\"color:#e74c3c;\">游泳大咖</span>；</p><p style=\"margin:5px 0;font-size:16px;\">无论你擅长一二，还是<span style=\"font-style:italic;\">三项全能</span>；</p><p style=\"margin:5px 0;font-size:16px;\">想要享受<span style=\"color:#e74c3c;\">团练的乐趣</span>？想要得到<span style=\"color:#e74c3c;\">科学的指导</span>？想要在比赛中代表<span style=\"font-style:italic;\">人大</span>、证明自己？</p><p style=\"margin:5px 0;font-size:16px;\">只要你有一颗热爱运动的心，来<span style=\"color:#e74c3c;\">人大铁三队</span>，<span style=\"font-style:italic;\">冲就完了！</span> 💪</p><p style=\"margin:5px 0;font-size:16px;\"><b><u>首都高校铁人三项赛开战在即！！！</u></b></p><p style=\"margin:5px 0;font-size:16px;\"><b><u><span style=\"color:#e74c3c;\">中国人民大学铁人三项队</span>诚邀你的加入！！！</u></b></p>",
+  "title": "人大铁三队邀请",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
