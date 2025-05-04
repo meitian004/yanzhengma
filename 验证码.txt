@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2025-05-04T15:09:21+08:00",
+  "time": "2025-05-04T15:10:08+08:00",
   "code": "",
-  "message": "突发：美军发动空袭\n\n\n\n\n\n\n\n\n\n\n\n中国新闻网\n\n\n\n\n2025年05月04日 13:42\n北京\n\n\n219人\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n当地时间5月3日，据胡塞武装控制的马西拉电视台报道，也门马里卜省、荷台达省的多个地点遭到美军空袭。另据马西拉电视台消息，4日凌晨，美军对也门马里卜省发动5次袭击，对萨达省发动3次袭击，对荷台达省发动2次袭击。胡塞武装：将打击从美港口以出口等形式通行红海等海域的船只当地时间5月3日，由胡塞武装控制的“人道主义行动协调中心”宣布一项决定，禁止从美国港口出口、再出口、运输、装载、购买、转运或销售美国原油的船只通行红海、曼德海峡、亚丁湾、阿拉伯海和印度洋，并表示上述船只可能在胡塞武装能够打击到的任何地方成为攻击目标。",
-  "title": "🪧  公 告",
+  "message": "<style>:root { --text-color: #1a2a44; --highlight-color: #d32f2f; --highlight-bg: #fff8e1; --highlight-bg-text: #ffebee; --highlight-border: #ffd54f; --hover-bg: #fefcbf; --hover-color: #b71c1c; } @media (prefers-color-scheme: dark) { :root { --text-color: #e2e8f0; --highlight-color: #ff8a80; --highlight-bg: #4a4a4a; --highlight-bg-text: #6b6b6b; --highlight-border: #718096; --hover-bg: #718096; --hover-color: #feb2b2; } } .highlight:hover { background-color: var(--hover-bg); color: var(--hover-color); transform: scale(1.05); box-shadow: 0 2px 8px rgba(0,0,0,0.3); border-color: var(--hover-color); transition: all 0.3s ease; }</style><p style=\"font-size:16px;margin:10px 0;color:var(--text-color,#1a2a44);text-align:left;line-height:1.5;\">当地时间5月3日，据胡塞武装控制的马西拉电视台报道，也门<mark style=\"background-color:var(--highlight-bg,#fff8e1);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border,#ffd54f);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">马里卜省</mark>、荷台达省的多个地点遭到美军空袭。&#128240;</p><p style=\"font-size:16px;margin:10px 0;color:var(--text-color,#1a2a44);text-align:left;line-height:1.5;\">另据马西拉电视台消息，4日凌晨，美军对也门马里卜省发动<span style=\"font-size:18px;color:var(--highlight-color,#d32f2f);font-style:italic;background:linear-gradient(45deg,var(--highlight-bg-text,#ffebee),var(--highlight-bg-text,#ffccbc));padding:3px 5px;border-radius:4px;box-shadow:0 1px 3px rgba(0,0,0,0.2);\">5次袭击</span>，对萨达省发动3次袭击，对荷台达省发动2次袭击。&#128165;</p><p style=\"font-size:16px;margin:10px 0;color:var(--text-color,#1a2a44);text-align:left;line-height:1.5; font-style: italic;\">胡塞武装：将打击从美港口以出口等形式通行<u style=\"font-weight:bold;color:var(--highlight-color,#d32f2f);text-decoration:underline dotted;padding:0 2px;\">红海</u>等海域的船只当地时间5月3日，由胡塞武装控制的“人道主义行动协调中心”宣布一项决定，禁止从美国港口出口、再出口、运输、装载、购买、转运或销售美国原油的船只通行红海、曼德海峡、亚丁湾、阿拉伯海和印度洋，并表示上述船只可能在胡塞武装能够打击到的任何地方成为攻击目标。&#128674;</p>",
+  "title": "突发：美军发动空袭",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "1h",
+  "valid_period": "1m",
   "refresh_period": "15s",
   "past_message": "验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"
 }
