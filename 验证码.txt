@@ -1,9 +1,9 @@
 {
-  "type": "code",
-  "time": "2025-05-05T17:42:37+08:00",
-  "code": "237272",
-  "message": "请核对时效性，确保这是您所发送的验证码后，复制和使用该验证码。",
-  "title": "Apple account 登陆验证",
+  "type": "text",
+  "time": "2025-05-08T18:31:25+08:00",
+  "code": "",
+  "message": "今天天气不好，外头下雨",
+  "title": "☁️ 天气",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "45s",
+  "valid_period": "1d",
   "refresh_period": "15s",
   "past_message": "验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"
 }
