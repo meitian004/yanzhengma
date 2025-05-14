@@ -1,8 +1,8 @@
 {
   "type": "text",
-  "time": "2025-05-14T00:09:35+08:00",
+  "time": "2025-05-14T09:26:26+08:00",
   "code": "",
-  "message": "https://cvws.icloud-content.com/B/AS-PgnzLhi4aOnHExhMAeB_OQPaaATRCxeXt6cmGsYqT58k2pZt4l5Ef/mobile-universal-release.apk?o=Ah8SsjExoOcWUFzuhOMKK7c2ZDTPGWcHu8ut4AxjJ9Yj&v=1&x=3&a=CAogkA3wkxQMLAQy6--3ELnMXpPGot-rMK6PMl7ViEw_z9ISbxDEvI_T7DIYxMyKp_YyIgEAUgTOQPaaWgR4l5EfaiccQgf2tZTdSs4VUzFo9F6KrR4IEG0e2u74zYYB83TLYDCbugS4-xlyJxdvjwWQZzEt1nmohReryoRmXmri834g_SIAiL2I6wMpk6-JiiBrKQ&e=1749744264&fl=&r=20C9E911-3712-4D9A-A150-891ABA67BBB7-1&k=Mgp7_J20nJ3af4jBYnUJHw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=113&s=B4eUJqrwXk9mM_VGLWIwHlVMmTk",
+  "message": "AIzaSyA7-XejIarYt6j89nanYmP9yxKQym16cP0\n\nhttps://generativelanguage.googleapis.com/v1beta/openai/chat/completions\n\ngemini-2.0-flash\n\n",
   "title": "🪧  公 告",
   "contact_turn": "on",
   "contact_way_1": "📧email",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "10m",
+  "valid_period": "5m",
   "refresh_period": "15s",
   "past_message": "验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"
 }
