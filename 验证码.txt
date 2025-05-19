@@ -1,9 +1,9 @@
 {
-  "type": "text",
-  "time": "2025-05-18T17:22:33+08:00",
-  "code": "",
-  "message": "https://cvws.icloud-content.com/B/AcUlW5Zr2RqBGZicKWQ02NwlNK31AWwTFWIu33_bLP-ILd3XeoI0K68L/Surfboard_mobile-2.24.10%20(Build%20257)_APKPure.apk?o=Aouy-k61m-U5RHHE712_n5kwDnXrFct8T6ECkKh1efzx&v=1&x=3&a=CAog2IVnVVXzVbxU16DwTQWsqv6hrGUYO8vGk6vgwySwI0ISbxC99MyV7jIYvYTI6fcyIgEAUgQlNK31WgQ0K68Laie_AYWBKFVkbSl1PFO5rAA2uxoDioMfTbm7EER-dfIDYQEHkBdUMOtyJ1L38CJEKhdzoFGbPXxi8iF1iNNeHRkli6FxkPNsfGp_l-gxCmsiZQ&e=1750152118&fl=&r=580B70EB-15B4-4847-BAA4-570D4748EC05-1&k=qLHIgyNYGHYM-sbiP8GlGg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=113&s=jEQbUEwjH3mA_x5JcTr-gvojzQw",
-  "title": "🪧  公 告",
+  "type": "code",
+  "time": "2025-05-19T21:39:29+08:00",
+  "code": "223265",
+  "message": "请核对时效性，确保这是您所发送的验证码后，复制和使用该验证码。",
+  "title": "Apple account 登陆验证",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "10m",
+  "valid_period": "45s",
   "refresh_period": "15s",
   "past_message": "验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"
 }
