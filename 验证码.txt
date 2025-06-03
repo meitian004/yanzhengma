@@ -1,1 +1,20 @@
-{"type":"code","time":"2025-06-01T19:29:12+08:00","code":"261643","message":"请核对时效性，确保这是您所发送的验证码后，复制和使用该验证码。","title":"Apple account 登陆验证","contact_turn":"on","contact_way_1":"📧email","contact_address_1":"one@meitian.me","contact_url_1":"mailto:one@meitian.me","contact_way_2":"","contact_address_2":"","contact_url_2":"","contact_way_3":"","contact_address_3":"","contact_url_3":"","valid_period":"45s","refresh_period":"15s","past_message":"验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"}
+{
+  "type": "code",
+  "time": "2025-06-03T16:32:02+08:00",
+  "code": "074018",
+  "message": "请核对时效性，确保这是您所发送的验证码后，复制和使用该验证码。",
+  "title": "Apple account 登陆验证",
+  "contact_turn": "on",
+  "contact_way_1": "📧email",
+  "contact_address_1": "one@meitian.me",
+  "contact_url_1": "mailto:one@meitian.me",
+  "contact_way_2": "",
+  "contact_address_2": "",
+  "contact_url_2": "",
+  "contact_way_3": "",
+  "contact_address_3": "",
+  "contact_url_3": "",
+  "valid_period": "45s",
+  "refresh_period": "15s",
+  "past_message": "验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"
+}
