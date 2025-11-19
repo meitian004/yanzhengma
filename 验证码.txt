@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2025-11-19T15:58:13+08:00",
+  "time": "2025-11-19T16:00:20+08:00",
   "code": "",
-  "message": "哈哈哈哈哈这是一段测试文本😄",
-  "title": "🪧  测试！20251119",
+  "message": "",
+  "title": "",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "30m",
+  "valid_period": "1m",
   "refresh_period": "15s",
   "past_message": "验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"
 }
