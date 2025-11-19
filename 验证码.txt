@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2025-11-19T15:57:25+08:00",
+  "time": "2025-11-19T15:58:13+08:00",
   "code": "",
-  "message": "",
-  "title": "",
+  "message": "哈哈哈哈哈这是一段测试文本😄",
+  "title": "🪧  测试！20251119",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
