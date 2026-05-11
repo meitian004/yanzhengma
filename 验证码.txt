@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2026-05-11T15:52:42+08:00",
+  "time": "2026-05-11T16:57:10+08:00",
   "code": "",
-  "message": "哈哈哈，展示下",
-  "title": "🪧  测试公告",
+  "message": "codex 能接入自己的 api 吗？codex 有 win 客户端吗",
+  "title": "🪧  我的疑问🙃",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "1d",
+  "valid_period": "1m",
   "refresh_period": "15s",
   "past_message": "验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"
 }
