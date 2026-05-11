@@ -1,9 +1,9 @@
 {
   "type": "text",
-  "time": "2025-11-19T16:11:13+08:00",
+  "time": "2026-05-11T15:52:42+08:00",
   "code": "",
-  "message": "<style>.highlight:hover { background-color: var(--hover-bg); color: var(--hover-color); transform: scale(1.05); box-shadow: 0 2px 8px rgba(0,0,0,0.3); border-color: var(--hover-color); transition: all 0.3s ease; } @media (prefers-color-scheme: dark) { :root { --text-color: #e2e8f0; --highlight-color: #ff8a80; --highlight-bg: #4a4a4a; --highlight-bg-text: #6b6b6b; --highlight-border: #718096; --hover-bg: #718096; --hover-color: #feb2b2; } }</style><p style=\"font-size: 16px; margin:10px 0; color: var(--text-color, #1a2a44); text-align: left; line-height: 1.5;\"><strong>纽约</strong>外百老汇连续驻场演出<mark style=\"background-color:var(--highlight-bg,#fff8e1);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border,#ffd54f);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">10年</mark>，超<mark style=\"background-color:var(--highlight-bg,#fff8e1);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border,#ffd54f);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">1000场</mark>📈</p><p style=\"font-size: 16px; margin:10px 0; color: var(--text-color, #1a2a44); text-align: left; line-height: 1.5;\">全国巡回演出，场场火爆！一场把经典物理实验融入舞台的快乐互动科学秀让孩子感受风靡北美的科学启蒙爱上科学就是这么简单！🎉</p><p style=\"font-size: 16px; margin:10px 0; color: var(--text-color, #1a2a44); text-align: left; line-height: 1.5;\"><mark style=\"background-color:var(--highlight-bg,#fff8e1);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border,#ffd54f);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">灭火器</mark>、<mark style=\"background-color:var(--highlight-bg,#fff8e1);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border,#ffd54f);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">自行车轮</mark>、<mark style=\"background-color:var(--highlight-bg,#fff8e1);padding:4px 6px;border-radius:6px;border:1px solid var(--highlight-border,#ffd54f);font-size:16px;letter-spacing:0.5px;\" class=\"highlight\">可口可乐</mark>日常所见的物品在物理法则之下都能展现出非凡的魔力效果！<span style=\"font-size:18px;color:var(--highlight-color,#d32f2f);font-style:italic;background:linear-gradient(45deg,#ffebee,#ffccbc);padding:3px 5px;border-radius:4px;box-shadow:0 1px 3px rgba(0,0,0,0.2);\"></span>🧲</p><p style=\"font-size: 16px; margin:10px 0; color: var(--text-color, #1a2a44); text-align: left; line-height: 1.5;\">舞台的主角不再是小丑和公主而是主宰大千世界的<u style=\"font-weight:bold;color:var(--highlight-color,#d32f2f);text-decoration:underline dotted;padding:0 2px;\">牛顿法则</u>、<u style=\"font-weight:bold;color:var(--highlight-color,#d32f2f);text-decoration:underline dotted;padding:0 2px;\">守恒定律</u>、<u style=\"font-weight:bold;color:var(--highlight-color,#d32f2f);text-decoration:underline dotted;padding:0 2px;\">光电效应</u>……这就是让无数人爱上科学的百老汇互动亲子科学剧《物理秀》！💡</p>",
-  "title": "纽约外百老汇连续驻场演出10年，超1000场",
+  "message": "哈哈哈，展示下",
+  "title": "🪧  测试公告",
   "contact_turn": "on",
   "contact_way_1": "📧email",
   "contact_address_1": "one@meitian.me",
@@ -14,7 +14,7 @@
   "contact_way_3": "",
   "contact_address_3": "",
   "contact_url_3": "",
-  "valid_period": "1m",
+  "valid_period": "1d",
   "refresh_period": "15s",
   "past_message": "验证码过期或尚未发送，请重新获取。为避免频繁请求，请等待自动刷新。"
 }
